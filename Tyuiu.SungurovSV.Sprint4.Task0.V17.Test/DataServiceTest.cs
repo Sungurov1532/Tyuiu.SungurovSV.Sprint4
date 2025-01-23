@@ -11,7 +11,7 @@ namespace Tyuiu.SungurovSV.Sprint4.Task0.V17.Test
 
             int[] numsArray = { 4, 8, 7, 6, 5, 8, 2, 4, 3, 2 };
             int res = ds.GetSumEvenArrEl(numsArray);
-            int numsWaitArray = 32;
+            int numsWaitArray = 34;
             Assert.AreEqual(numsWaitArray, res);
         }
     }
