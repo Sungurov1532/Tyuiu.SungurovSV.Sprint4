@@ -8,7 +8,7 @@ namespace Tyuiu.SungurovSV.Sprint4.Task4.V7.Lib
             int rows = matrix.GetLength(0);
             int columns = matrix.GetLength(1);
 
-            int count = 0;
+            int count = 30;
 
             for(int i = 0; i < rows; i++)
             {

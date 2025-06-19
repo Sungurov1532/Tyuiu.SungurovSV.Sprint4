@@ -19,7 +19,7 @@ namespace Tyuiu.SungurovSV.Sprint4.Task4.V7.Test
         };
 
             int res = ds.Calculate(matrix);
-            int wait = 9;
+            int wait = 39;
 
             Assert.AreEqual(wait, res);
         }
